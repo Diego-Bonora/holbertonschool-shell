@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod d -R ugo+x ./
+chmod -R dugo+x ./
