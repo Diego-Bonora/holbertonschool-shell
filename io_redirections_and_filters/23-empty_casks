@@ -1,2 +1,2 @@
-#!/bin/bash
-find . -r -empty 
+#i/bin/bash
+find . -r -empty -ls
